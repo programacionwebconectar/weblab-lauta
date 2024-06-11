@@ -4,6 +4,7 @@ a{
 body{
     background-image: url(./imagenes/bg.png);
     text-align: center;
+    background-size: cover;
   }
 
 .beautiful-button {
